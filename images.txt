@@ -1,5 +1,5 @@
 nginx
 jenkins/jenkins
 golang
-
+python:3.5.1
 
