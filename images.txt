@@ -4,5 +4,5 @@ golang
 python:3.5.1
 nginx:1.14.2-alpine
 alpine
-mysql:8.0.28
+mysql:8.4.2
 
